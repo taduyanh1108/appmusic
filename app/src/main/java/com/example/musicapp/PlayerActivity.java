@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 public class PlayerActivity extends AppCompatActivity {
 
-   /* Button btnplay, btnnext, btnprev, btnff, btnfr;
+    Button btnplay, btnnext, btnprev, btnff, btnfr;
     TextView txtsname, txtstart, txtsstop;
     SeekBar seekmusic;
     BarVisualizer visualizer;
@@ -28,7 +28,7 @@ public class PlayerActivity extends AppCompatActivity {
     public static final String EXTRA_NAME = "song_name";
     static MediaPlayer mediaPlayer;
     int position;
-    ArrayList<File> mySongs;*/
+    ArrayList<File> mySongs;
 
 
     @Override
